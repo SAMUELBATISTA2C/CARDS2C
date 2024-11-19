@@ -1,55 +1,55 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'CSS',
+    'O que é CSS?',
+    'É uma linguagem para estilizar páginas HTML'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'CSS',
+    'Para que serve o id no CSS?',
+    'Estilizar um elemento único'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'CSS',
+    'Como mudar a cor de fundo com CSS?',
+    'Use background-color'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'HTML',
+    'Para que serve a tag <a>?',
+    'Criar links'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'HTML',
+    'O que é uma tag <div>?',
+    'Um contêiner de bloco para agrupar elementos'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'HTML',
+    'Como criar uma lista numerada?',
+    'Use a tag <ol> com <li>'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'JavaScript',
+    'O que é JavaScript?',
+    'Linguagem para adicionar interatividade em páginas web'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'JavaScript',
+    'Como exibir uma mensagem de alerta?',
+    'Use alert()'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'JavaScript',
+    'Para que serve o let no JavaScript?',
+    'Declarar variáveis com escopo de bloco'
 )
 
 
